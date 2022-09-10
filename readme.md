@@ -9,3 +9,5 @@
 <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="16px" /> Linkedin: https://www.linkedin.com/company/coding-club-iitg
 
 <img src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" height="16px" /> Linktree: https://linktr.ee/codingclubiitg
+
+`This creates a Merge conflict`
